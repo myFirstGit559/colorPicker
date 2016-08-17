@@ -22,10 +22,14 @@
     width:90%;
     text-indent: 5px;
 }
+.clrp:focus{
+    outline:0;
+}
 .palette{
     position:relative;
     top: 1px;
     left: 0px;
+    display:none;
 }
 .item{
     width: 16px;
